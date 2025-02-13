@@ -1,0 +1,89 @@
+- pseudocódigo de ambos algoritmos
+
+Búsqueda lineal o secuencial
+
+public class BusquedaSecuencial {
+    public static int busquedaLineal(int[] arreglo, int dato) {
+        for (int i = 0; i < arreglo.length; i++) {
+            if (arreglo[i] == dato) {
+                return i; 
+            }
+        }
+        return -1; 
+    }
+}
+
+
+Búsqueda Binaria 
+
+public class BusquedaBinaria {
+    public static int busquedaBinaria(int[] arreglo, int dato) {
+        int inicio = 0;
+        int mitad;
+        int fin = arreglo.length - 1;
+
+        while (inicio <= fin) {
+            mitad = (inicio + fin) / 2;
+            if (arreglo[mitad] == dato) {
+                return mitad; 
+            } else if (dato < arreglo[mitad]) {
+                fin = mitad - 1;
+            } else {
+                inicio = mitad + 1;
+            }
+        }
+        return -1; 
+    }
+}
+
+APP 
+
+import javax.swing.JOptionPane;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+        int[] arreglo = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
+
+        String menu = ("Seleccione el tipo de búsqueda:\n1. Búsqueda Secuencial\n2. Búsqueda Binaria");
+        int opcion = Integer.parseInt(JOptionPane.showInputDialog(menu));
+
+        int dato = -1;  
+        
+        if (opcion == 1 || opcion == 2) {
+            dato = Integer.parseInt(JOptionPane.showInputDialog("Ingrese el dato a buscar:"));
+        }
+
+        switch (opcion) {
+            case 1:
+                if (dato != -1) {  
+                    int posicionSecuencial = BusquedaSecuencial.busquedaLineal(arreglo, dato);
+                    if (posicionSecuencial != -1) {
+                        JOptionPane.showMessageDialog(null, "El dato " + dato + " se encontró en la posición " + posicionSecuencial + " (Búsqueda Secuencial).");
+                    } else {
+                        JOptionPane.showMessageDialog(null, "El dato " + dato + " no se encontró (Búsqueda Secuencial).");
+                    }
+                }
+                break;
+
+            case 2:
+                if (dato != -1) {  
+                    int posicionBinaria = BusquedaBinaria.busquedaBinaria(arreglo, dato);
+                    if (posicionBinaria != -1) {
+                        JOptionPane.showMessageDialog(null, "El dato " + dato + " se encontró en la posición " + posicionBinaria + " (Búsqueda Binaria).");
+                    } else {
+                        JOptionPane.showMessageDialog(null, "El dato " + dato + " no se encontró (Búsqueda Binaria).");
+                    }
+                }
+                break;
+
+            default:
+                JOptionPane.showMessageDialog(null, "Opción no válida.");
+                break;
+        }
+    }
+}
+
+
+- indique cual de los 2 método es mas eficiente y por qué
+
+Ambos métodos de búsqueda, búsqueda secuencial y búsqueda binaria, son eficientes en diferentes contextos. Cada uno tiene sus ventajas y desventajas, y su elección depende de las características del conjunto de datos con el que estamos trabajando, pero guiándome de la información puedo deducir que la búsqueda binaria es más eficiente que la búsqueda secuencial, pero solo cuando los datos están ordenados. Si el arreglo no está ordenado, la búsqueda secuencial es una opción más directa y sencilla, aunque menos eficiente para conjuntos de datos grandes. La elección entre uno u otro dependerá del tamaño y la organización de los datos, así como de si ya están ordenados o no.
