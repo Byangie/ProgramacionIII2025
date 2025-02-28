@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\bin\Debug\net8.0\ColasconProveedores.exe
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\bin\Debug\net8.0\ColasconProveedores.deps.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\bin\Debug\net8.0\ColasconProveedores.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\bin\Debug\net8.0\ColasconProveedores.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\bin\Debug\net8.0\ColasconProveedores.pdb
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\refint\ColasconProveedores.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.pdb
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ColasconProveedores.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\ColasconProveedores\obj\Debug\net8.0\ref\ColasconProveedores.dll

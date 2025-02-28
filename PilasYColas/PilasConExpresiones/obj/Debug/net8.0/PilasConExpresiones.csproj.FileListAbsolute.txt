@@ -1,0 +1,15 @@
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\bin\Debug\net8.0\PilasConExpresiones.exe
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\bin\Debug\net8.0\PilasConExpresiones.deps.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\bin\Debug\net8.0\PilasConExpresiones.runtimeconfig.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\bin\Debug\net8.0\PilasConExpresiones.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\bin\Debug\net8.0\PilasConExpresiones.pdb
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.AssemblyInfoInputs.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.AssemblyInfo.cs
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.sourcelink.json
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\refint\PilasConExpresiones.dll
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.pdb
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\PilasConExpresiones.genruntimeconfig.cache
+C:\Users\LENOVO FLEX\Desktop\ProgramacionIII\PilasYColas\PilasConExpresiones\obj\Debug\net8.0\ref\PilasConExpresiones.dll

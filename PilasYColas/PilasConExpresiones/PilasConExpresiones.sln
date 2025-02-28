@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilasConExpresiones", "PilasConExpresiones.csproj", "{ECDD9859-6C68-4B2E-A031-D64F0976D8E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDD9859-6C68-4B2E-A031-D64F0976D8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDD9859-6C68-4B2E-A031-D64F0976D8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDD9859-6C68-4B2E-A031-D64F0976D8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDD9859-6C68-4B2E-A031-D64F0976D8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B205813-624F-4B9F-9F11-A18D13D297E0}
+	EndGlobalSection
+EndGlobal
